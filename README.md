@@ -14,3 +14,6 @@ systemctl enable wg-quick@wg0
 
 # 取消开机启动
 systemctl disable wg-quick@wg0  
+
+# 绕过大陆
+https://github.com/lmc999/auto-add-routes  
